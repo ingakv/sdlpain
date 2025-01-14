@@ -1,0 +1,1 @@
+It was extremely painful to install sdl2 and changing the its files, so i uploaded my sdl2 installation files here for easier installation. I did not make this library myself
